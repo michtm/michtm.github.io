@@ -1,5 +1,6 @@
 h1 {
   color: red;
+  border-bottom: 1px dashed purple;
 }
 
 p {
@@ -8,6 +9,11 @@ p {
 
 h1 + p {
   font-size: 200%;
+}
+
+h2 {
+  color: hotpink;
+  font-style: italic;
 }
 
 a:link {
@@ -20,6 +26,12 @@ a:visited {
 
 a:hover {
   text-decoration: none;
+}
+
+ul {
+  background-color: #eeeeee;
+  border: 5px solid purple;
+  padding: 1em;
 }
 
 li em {
