@@ -5,3 +5,8 @@ h1 {
 p {
   color: green;
 }
+
+.special {
+  color: orange;
+  font-weight: bold;
+}
